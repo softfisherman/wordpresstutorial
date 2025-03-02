@@ -38,11 +38,23 @@ keywords: "Wordpress建站教程, Wordpress教程, 网站搭建, SEO优化"
 ![注册NameSilo账号第三步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.30.43.png)
 ![注册NameSilo账号第四步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.33.55.png)
 
-注册完账号后，你邮箱会收到一封让你验证Whois信息的邮件，点击邮件里面的链接，去填下个人信息就好了。这一步我就不放上来了～
+注册完账号后，你邮箱会收到一封让你验证Whois信息的邮件，点击邮件里面的链接，就完成邮箱验证了。这一步我就不放上来了～
 
-下面我们去选域名：
+下面我们去选域名：最好选择.com后缀的域名，或者.net后缀，这两种域名后缀比较通用，如果你想省钱的话，.top后缀的域名我觉得也不错，比较便宜哈哈，首年大概10块钱～
+
+这里以cikechuhai为例，查询一下，发现cikehcuhai.com和cikehcuhai.top已经被我买啦哈哈，所以是黄颜色的
 
 ![在NameSilo购买域名第一步](https://aiwoma.top/PicGo/1740904952886.jpg)
+
+后面大家选好域名，点击加入蓝色购物车，然后点击checkout去结帐付款就可以了：
+
+![在NameSilo购买域名第二步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.56.39.png)
+
+这里填一下你的个人信息：国家、城市、地址、省份、邮编等：
+
+![在NameSilo购买域名第三步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.59.10.png)
+
+![在NameSilo购买域名第四步](https://aiwoma.top/PicGo/iShot_2025-03-02_17.05.30.png)
 
 ## 第二步 选择合适的主机
 
