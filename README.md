@@ -30,8 +30,20 @@ keywords: "Wordpress建站教程, Wordpress教程, 网站搭建, SEO优化"
 我们先去NameSilo的官网注册帐号，然后再选域名、买域名。
 
 点击访问：[NameSilo官网](https://www.namesilo.com/domain/search-domains?rid=c36cc24wm)
+
+注册NameSilo账号并完成域名购买，请跟着下图步骤照做：
+
 ![注册NameSilo账号第一步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.12.40.png)
 ![注册NameSilo账号第二步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.19.58.png)
+![注册NameSilo账号第三步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.30.43.png)
+![注册NameSilo账号第四步](https://aiwoma.top/PicGo/iShot_2025-03-02_16.33.55.png)
+
+注册完账号后，你邮箱会收到一封让你验证Whois信息的邮件，点击邮件里面的链接，去填下个人信息就好了。这一步我就不放上来了～
+
+下面我们去选域名：
+
+![在NameSilo购买域名第一步](https://aiwoma.top/PicGo/1740904952886.jpg)
+
 ## 第二步 选择合适的主机
 
 （在这里填写如何选择主机的内容）
