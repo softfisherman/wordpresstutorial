@@ -56,6 +56,11 @@ keywords: "Wordpress建站教程, Wordpress教程, 网站搭建, SEO优化"
 
 ![在NameSilo购买域名第四步](https://aiwoma.top/PicGo/iShot_2025-03-02_17.05.30.png)
 
+NameSilo支持支付宝Alipay支付，我一般都用这个支付方式，扫码付款很方便～优先推荐大家用支付宝Alipay，如果你想用信用卡或者PayPal等其他支付方式也可以：
+
+![在NameSilo购买域名第五步](https://aiwoma.top/PicGo/1740907471078.jpg)
+
+付完钱，等1分钟左右，后台就处理好了。接下来，我们把域名托管到Cloudflare上面去：
 ## 第二步 选择合适的主机
 
 （在这里填写如何选择主机的内容）
