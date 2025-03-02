@@ -1,10 +1,10 @@
 ---
-title: "Wordpress建站教程——Wordpress零基础建站教程"
+title: "【Wordpress建站教程】2025年最新——Wordpress零基础建站教程新手小白适用"
 description: "完整的Wordpress建站教程，适合零基础用户。从域名选择、主机购买到网站优化，帮助你快速搭建属于自己的网站。"
-keywords: "Wordpress建站, Wordpress教程, 网站搭建, SEO优化"
+keywords: "Wordpress建站教程, Wordpress教程, 网站搭建, SEO优化"
 ---
 
-# Wordpress建站教程——Wordpress零基础建站教程
+# 【Wordpress建站教程】2025年最新——Wordpress零基础建站教程新手小白适用
 
 ## 目录
 
@@ -19,7 +19,7 @@ keywords: "Wordpress建站, Wordpress教程, 网站搭建, SEO优化"
 
 ## 前言
 
-（在这里写入前言内容，介绍本教程的目标和适用人群）
+本教程的目标和适用人群：啥都不懂的新手小白也能看的懂的Wordpress建站教程，手把手教，听话跟着这个教程照做，就能自己做一个网站出来！
 
 ## 第一步 购买域名
 
