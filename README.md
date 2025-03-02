@@ -42,7 +42,7 @@ keywords: "Wordpress建站教程, Wordpress教程, 网站搭建, SEO优化"
 
 下面我们去选域名：最好选择.com后缀的域名，或者.net后缀，这两种域名后缀比较通用，如果你想省钱的话，.top后缀的域名我觉得也不错，比较便宜哈哈，首年大概10块钱～
 
-这里以cikechuhai为例，查询一下，发现cikehcuhai.com和cikehcuhai.top已经被我买啦哈哈，所以是黄颜色的
+这里以cikechuhai为例，查询一下，发现[刺客出海](cikechuhai.com)和cikechuhai.top已经被我买啦哈哈，所以是黄颜色的
 
 ![在NameSilo购买域名第一步](https://aiwoma.top/PicGo/1740904952886.jpg)
 
