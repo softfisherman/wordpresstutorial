@@ -98,7 +98,7 @@ NameSilo支持支付宝Alipay支付，我一般都用这个支付方式，扫码
 
 把Namesever3的原有记录删掉，然后把CloudFlare刚才那2行的NS记录，分别复制到Namesever1和Namesever2，然后点击Submit：
 
-![域名托管到CLoudFlare第七步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.48.43.png)
+![域名托管到CLoudFlare第七步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.57.20.png)
 
 域名托管到CLoudFlare完成啦哈哈～我们接下来，去买主机VPS！
 
