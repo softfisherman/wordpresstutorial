@@ -1,9 +1,3 @@
----
-title: "【Wordpress建站教程】2025年最新——Wordpress零基础建站教程新手小白适用"
-description: "完整的Wordpress建站教程，适合零基础用户。从域名选择、主机购买到网站优化，帮助你快速搭建属于自己的网站。"
-keywords: "Wordpress建站教程, Wordpress教程, 网站搭建, SEO优化"
----
-
 # 【Wordpress建站教程】2025年最新——Wordpress零基础建站教程新手小白适用
 
 ## 目录
@@ -85,4 +79,8 @@ NameSilo支持支付宝Alipay支付，我一般都用这个支付方式，扫码
 
 （在这里总结教程的内容，并鼓励读者实践）
 
+---
+title: "【Wordpress建站教程】2025年最新——Wordpress零基础建站教程新手小白适用"
+description: "完整的Wordpress建站教程，适合零基础用户。从域名选择、主机购买到网站优化，帮助你快速搭建属于自己的网站。"
+keywords: "Wordpress建站教程, Wordpress教程, 网站搭建, SEO优化"
 ---
