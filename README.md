@@ -68,7 +68,7 @@ NameSilo支持支付宝Alipay支付，我一般都用这个支付方式，扫码
 
 ![注册CloudFlare账号第三步](https://aiwoma.top/PicGo/1740969995583.jpg)
 
-后面注册Cloud Flare的过程，我就不一一给大家截图示范了，你就跟着他网站的步骤操作就行，该验证邮箱的，验证邮箱；该填个人信息的，填个人信息……
+后面注册Cloud Flare的过程，我就不一一给大家截图示范了，你就跟着他网站的步骤操作就行，官网让你接下来干啥，你就干啥就完事了！该验证邮箱的，验证邮箱；该填个人信息的，填个人信息……
 
 下面开始说重点：如何把我们刚买的域名，托管到CLoudFlare上面
 
@@ -80,6 +80,27 @@ NameSilo支持支付宝Alipay支付，我一般都用这个支付方式，扫码
 
 ![域名托管到CLoudFlare第二步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.22.06.png)
 
+拉到最下面，选0元的免费计划，然后点继续：
+
+![域名托管到CLoudFlare第三步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.27.32.png)
+
+点击“继续前往激活”
+
+![域名托管到CLoudFlare第四步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.29.10.png)
+
+点击DNS，拉到下面，看到框出来的那2行NS了吗？接下来我们把这两行NS，分别复制到NameSilo去：
+
+![域名托管到CLoudFlare第五步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.31.07.png)
+
+转到NameSilo后台，域名管理的地方，找到你刚买的域名，把域名前面的方框选中打上勾，然后点“Change Namesevers”
+
+![域名托管到CLoudFlare第六步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.41.31.png)
+
+把Namesever3的原有记录删掉，然后把CloudFlare刚才那2行的NS记录，分别复制到Namesever1和Namesever2，然后点击Submit：
+
+![域名托管到CLoudFlare第七步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.48.43.png)
+
+域名托管到CLoudFlare完成啦哈哈～我们接下来，去买主机VPS！
 
 ## 第二步 选择合适的主机
 
