@@ -1,4 +1,4 @@
-# 【Wordpress建站教程】2025年最新——Wordpress零基础建站教程新手小白适用
+# 【Wordpress建站教程】2025年最新——Wordpress零基础建站教程
 
 ## 目录
 
@@ -36,7 +36,7 @@
 
 下面我们去选域名：最好选择.com后缀的域名，或者.net后缀，这两种域名后缀比较通用，如果你想省钱的话，.top后缀的域名我觉得也不错，比较便宜哈哈，首年大概10块钱～
 
-这里以cikechuhai为例，查询一下，发现[刺客出海](https://cikechuhai.com)和cikechuhai.top已经被我买啦哈哈，所以是黄颜色的
+这里以cikechuhai为例，查询一下，发现[刺客出海cikechuhai.com](https://cikechuhai.com)和cikechuhai.top已经被别人买啦，所以是黄颜色的
 
 ![在NameSilo购买域名第一步](https://aiwoma.top/PicGo/1740904952886.jpg)
 
@@ -54,7 +54,25 @@ NameSilo支持支付宝Alipay支付，我一般都用这个支付方式，扫码
 
 ![在NameSilo购买域名第五步](https://aiwoma.top/PicGo/1740907471078.jpg)
 
-付完钱，等1分钟左右，后台就处理好了。接下来，我们把域名托管到Cloudflare上面去：
+付完钱，等1分钟左右，后台就处理好了。接下来，我们把域名托管到Cloudflare上面去，新用户先来注册一个CloudFlare账号：
+
+点击访问CloudFlare官网并注册帐号：[Cloudflare官网](https://www.cloudflare.com/)
+
+![注册CloudFlare账号第一步](https://aiwoma.top/PicGo/iShot_2025-03-03_10.30.44.png)
+
+注册CloudFlare账号，我们选择免费计划就足够用了！（CloudFlare是大善人，浑身是宝！他有很多我们可以白P的功能哈哈！你们以后就懂了！）
+
+![注册CloudFlare账号第二步](https://aiwoma.top/PicGo/1740969356075.jpg)
+
+输入邮箱、密码、过机器人验证：
+
+![注册CloudFlare账号第三步](https://aiwoma.top/PicGo/1740969995583.jpg)
+
+后面注册Cloud Flare的过程，我就不一一给大家截图示范了，你就跟着他网站的步骤操作就行，该验证邮箱的，验证邮箱；该填个人信息的，填个人信息……
+
+下面开始说重点：如何把我们刚买的域名，托管到CLoudFlare上面
+
+
 ## 第二步 选择合适的主机
 
 （在这里填写如何选择主机的内容）
