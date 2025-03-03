@@ -72,6 +72,14 @@ NameSilo支持支付宝Alipay支付，我一般都用这个支付方式，扫码
 
 下面开始说重点：如何把我们刚买的域名，托管到CLoudFlare上面
 
+点击“添加域”
+
+![域名托管到CLoudFlare第一步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.09.53.png)
+
+输入你刚买的域名，格式是xxx.com，不用加www
+
+![域名托管到CLoudFlare第二步](https://aiwoma.top/PicGo/iShot_2025-03-03_11.22.06.png)
+
 
 ## 第二步 选择合适的主机
 
